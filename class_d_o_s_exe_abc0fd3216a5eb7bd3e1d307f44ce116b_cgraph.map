@@ -1,11 +1,11 @@
 <map id="DOSExe::wrap" name="DOSExe::wrap">
-<area shape="rect" id="node1" title=" " alt="" coords="5,81,111,107"/>
-<area shape="rect" id="node2" href="$namespace_logger.html#a36e3deee152da96a491b670a00d224c9" title=" " alt="" coords="195,5,305,31"/>
-<area shape="rect" id="node3" href="$class_executable.html#a3f2511a46b6732f4afbcaa6a1bfb6c46" title=" " alt="" coords="389,96,556,121"/>
-<area shape="rect" id="node7" href="$class_dos_hdr_wrapper.html#aa7cf9049040b0c1bcb92e4c588d2f8e5" title=" " alt="" coords="159,107,341,132"/>
-<area shape="rect" id="node8" href="$class_dos_hdr_wrapper.html#aef711b7fca38e8a825293cd5c050a426" title=" " alt="" coords="173,156,327,181"/>
-<area shape="rect" id="node4" href="$class_abstract_byte_buffer.html#a64f38e33f915741eb283ef9a34cacb6d" title=" " alt="" coords="616,89,747,129"/>
-<area shape="rect" id="node5" href="$class_abstract_byte_buffer.html#a2d68f6930726a129478c8ab5ed38779a" title=" " alt="" coords="807,149,937,189"/>
-<area shape="rect" id="node6" href="$class_abstract_byte_buffer.html#a0493bdae87b5011993652335adb19577" title=" " alt="" coords="807,85,937,125"/>
-<area shape="rect" id="node9" href="$class_executable.html#a66e5a30580de455968bd682da7781af4" title=" " alt="" coords="604,156,759,181"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,110,107"/>
+<area shape="rect" id="node2" href="$namespace_logger.html#a36e3deee152da96a491b670a00d224c9" title=" " alt="" coords="194,5,304,31"/>
+<area shape="rect" id="node3" href="$class_executable.html#a3f2511a46b6732f4afbcaa6a1bfb6c46" title=" " alt="" coords="388,95,554,120"/>
+<area shape="rect" id="node7" href="$class_dos_hdr_wrapper.html#aa7cf9049040b0c1bcb92e4c588d2f8e5" title=" " alt="" coords="158,107,340,132"/>
+<area shape="rect" id="node8" href="$class_dos_hdr_wrapper.html#aef711b7fca38e8a825293cd5c050a426" title=" " alt="" coords="172,156,326,182"/>
+<area shape="rect" id="node4" href="$class_abstract_byte_buffer.html#a64f38e33f915741eb283ef9a34cacb6d" title=" " alt="" coords="614,87,744,128"/>
+<area shape="rect" id="node5" href="$class_abstract_byte_buffer.html#a2d68f6930726a129478c8ab5ed38779a" title=" " alt="" coords="804,149,934,189"/>
+<area shape="rect" id="node6" href="$class_abstract_byte_buffer.html#a0493bdae87b5011993652335adb19577" title=" " alt="" coords="804,83,934,124"/>
+<area shape="rect" id="node9" href="$class_executable.html#a66e5a30580de455968bd682da7781af4" title=" " alt="" coords="602,156,756,182"/>
 </map>

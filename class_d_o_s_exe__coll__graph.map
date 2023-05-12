@@ -1,9 +1,9 @@
 <map id="DOSExe" name="DOSExe">
-<area shape="rect" id="node1" title=" " alt="" coords="143,344,213,369"/>
-<area shape="rect" id="node2" href="$class_mapped_exe.html" title=" " alt="" coords="91,181,180,207"/>
-<area shape="rect" id="node3" href="$class_executable.html" title=" " alt="" coords="183,93,269,119"/>
-<area shape="rect" id="node7" href="$class_exe_element_wrapper.html" title=" " alt="" coords="205,181,343,207"/>
-<area shape="rect" id="node4" href="$class_abstract_byte_buffer.html" title=" " alt="" coords="202,5,333,31"/>
-<area shape="rect" id="node5" href="$class_exe_wrappers_container.html" title=" " alt="" coords="5,93,159,119"/>
-<area shape="rect" id="node6" href="$class_dos_hdr_wrapper.html" title=" " alt="" coords="205,256,319,281"/>
+<area shape="rect" id="node1" title=" " alt="" coords="142,346,213,372"/>
+<area shape="rect" id="node2" href="$class_mapped_exe.html" title=" " alt="" coords="91,183,179,208"/>
+<area shape="rect" id="node3" href="$class_executable.html" title=" " alt="" coords="182,94,266,120"/>
+<area shape="rect" id="node7" href="$class_exe_element_wrapper.html" title=" " alt="" coords="204,183,341,208"/>
+<area shape="rect" id="node4" href="$class_abstract_byte_buffer.html" title=" " alt="" coords="200,5,331,31"/>
+<area shape="rect" id="node5" href="$class_exe_wrappers_container.html" title=" " alt="" coords="5,94,158,120"/>
+<area shape="rect" id="node6" href="$class_dos_hdr_wrapper.html" title=" " alt="" coords="205,258,318,283"/>
 </map>
