@@ -1,7 +1,7 @@
 #include "pe/ResourceDirWrapper.h"
 #include "pe/PEFile.h"
 
-#define MAX_ENTRIES 50
+#define MAX_ENTRIES (-1)
 #define MAX_DEPTH 5
 
 /*
